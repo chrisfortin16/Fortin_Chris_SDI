@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="39063f65-b52d-413c-8108-2fe8dfffdae9" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Day3LabExpressions/js/script.js" afterPath="$PROJECT_DIR$/Day3LabExpressions/js/script.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="Fortin_Chris_SDI.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -39,7 +41,7 @@
       <file leaf-file-name="script.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/DayThree/js/script.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="1998" max-vertical-offset="2685">
+            <state vertical-scroll-proportion="0.0" vertical-offset="1803" max-vertical-offset="2685">
               <caret line="165" column="21" selection-start-line="165" selection-start-column="6" selection-end-line="165" selection-end-column="21" />
               <folding>
                 <element signature="n#!!doc" expanded="true" />
@@ -61,8 +63,8 @@
       <file leaf-file-name="script.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Day3LabExpressions/js/script.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.32751092" vertical-offset="105" max-vertical-offset="900">
-              <caret line="22" column="2" selection-start-line="22" selection-start-column="2" selection-end-line="22" selection-end-column="23" />
+            <state vertical-scroll-proportion="0.45414847" vertical-offset="393" max-vertical-offset="1095">
+              <caret line="47" column="2" selection-start-line="47" selection-start-column="2" selection-end-line="47" selection-end-column="11" />
               <folding>
                 <element signature="n#!!doc" expanded="true" />
               </folding>
@@ -89,7 +91,7 @@
     <detection-done>true</detection-done>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="57" />
+    <option name="x" value="40" />
     <option name="y" value="46" />
     <option name="width" value="1400" />
     <option name="height" value="784" />
@@ -117,7 +119,6 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -202,6 +203,7 @@
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -215,10 +217,14 @@
     <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file:///Users/Chris/Desktop/classes/SDI/Fortin_Chris_SDI/DayThree/DayThree.html" />
   </component>
   <component name="RunManager">
+    <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
+      <method />
+    </configuration>
     <configuration default="true" type="DartUnitRunConfigurationType" factoryName="DartUnit">
       <method />
     </configuration>
-    <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
+    <configuration default="true" type="JavaScriptTestRunnerKarma" factoryName="Karma" config-file="">
+      <envs />
       <method />
     </configuration>
     <configuration default="true" type="JSTestDriver:ConfigurationType" factoryName="JsTestDriver">
@@ -226,10 +232,6 @@
       <setting name="settingsFile" value="" />
       <setting name="serverType" value="INTERNAL" />
       <setting name="preferredDebugBrowser" value="Chrome" />
-      <method />
-    </configuration>
-    <configuration default="true" type="JavaScriptTestRunnerKarma" factoryName="Karma" config-file="">
-      <envs />
       <method />
     </configuration>
     <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
@@ -245,11 +247,19 @@
       <method />
     </configuration>
     <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <pass-parent-envs>true</pass-parent-envs>
+      <envs />
       <method />
     </configuration>
     <list size="0" />
   </component>
   <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="39063f65-b52d-413c-8108-2fe8dfffdae9" name="Default" comment="" />
@@ -260,7 +270,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="57" y="46" width="1400" height="784" extended-state="0" />
+    <frame x="40" y="46" width="1400" height="784" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -308,9 +318,37 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/DayThree/DayThree.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-6.25" vertical-offset="0" max-vertical-offset="240">
+        <state vertical-scroll-proportion="0.0" vertical-offset="150" max-vertical-offset="240">
           <caret line="10" column="7" selection-start-line="10" selection-start-column="7" selection-end-line="10" selection-end-column="7" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DayThree/js/script.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="1803" max-vertical-offset="2685">
+          <caret line="165" column="21" selection-start-line="165" selection-start-column="6" selection-end-line="165" selection-end-column="21" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Day3LabExpressions/Expressions.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="120" max-vertical-offset="240">
+          <caret line="8" column="0" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Day3LabExpressions/js/script.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="100">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -324,7 +362,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/DayThree/js/script.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="1998" max-vertical-offset="2685">
+        <state vertical-scroll-proportion="0.0" vertical-offset="1803" max-vertical-offset="2685">
           <caret line="165" column="21" selection-start-line="165" selection-start-column="6" selection-end-line="165" selection-end-column="21" />
           <folding>
             <element signature="n#!!doc" expanded="true" />
@@ -332,10 +370,18 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/DayThree/DayThree.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-6.25" vertical-offset="0" max-vertical-offset="240">
+          <caret line="10" column="7" selection-start-line="10" selection-start-column="7" selection-end-line="10" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Day3LabExpressions/js/script.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.32751092" vertical-offset="105" max-vertical-offset="900">
-          <caret line="22" column="2" selection-start-line="22" selection-start-column="2" selection-end-line="22" selection-end-column="23" />
+        <state vertical-scroll-proportion="0.45414847" vertical-offset="393" max-vertical-offset="1095">
+          <caret line="47" column="2" selection-start-line="47" selection-start-column="2" selection-end-line="47" selection-end-column="11" />
           <folding>
             <element signature="n#!!doc" expanded="true" />
           </folding>

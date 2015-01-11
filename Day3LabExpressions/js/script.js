@@ -45,8 +45,21 @@ average = average.toFixed(2); // Adding a .toFixed to my average so that I don't
 console.log("That is an average of " + average + " per week."); // Calling the average of the bills to the console
 
 
+//Discounts
 
+var originalPrice = 10; // Defining the original price
 
+var discountPercentage = .2; // Defining the discounted price
+
+var descriptionOfItem = "large tomatoes"; // Defining the name of of the product
+
+var salesTaxPercentage = .05; // Defining the sales tax
+
+var price = originalPrice + (salesTaxPercentage * originalPrice) - (originalPrice * discountPercentage); // Doing the math to find what the price is discounted and with the sales price
+var price2 = originalPrice - (originalPrice * discountPercentage); // Doing the math to find the original price minus the discount price
+
+console.log("Your " + descriptionOfItem + " was originally $" + originalPrice + ", but after a " + discountPercentage +
+"% discount, it is now $" + price2 + " without tax, and " + price + " with tax."); // Calling this terrible math problem to the console
 
 
 
