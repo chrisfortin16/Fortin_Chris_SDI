@@ -1,5 +1,8 @@
 /*
- Chris Fortin 1/10/2015 SDI Section 00 Instructional Assignment: Expressions
+ Chris Fortin
+ 1/10/2015
+ SDI Section 00
+ Instructional Assignment: Expressions
  */
 
 //Slice of Pie part 1
@@ -47,13 +50,13 @@ console.log("That is an average of " + average + " per week."); // Calling the a
 
 //Discounts
 
-var originalPrice = 10; // Defining the original price
+var originalPrice = 50; // Defining the original price
 
-var discountPercentage = .2; // Defining the discounted price
+var discountPercentage = .5; // Defining the discounted price
 
 var descriptionOfItem = "large tomatoes"; // Defining the name of of the product
 
-var salesTaxPercentage = .05; // Defining the sales tax
+var salesTaxPercentage = .3; // Defining the sales tax
 
 var price = originalPrice + (salesTaxPercentage * originalPrice) - (originalPrice * discountPercentage); // Doing the math to find what the price is discounted and with the sales price
 var price2 = originalPrice - (originalPrice * discountPercentage); // Doing the math to find the original price minus the discount price
