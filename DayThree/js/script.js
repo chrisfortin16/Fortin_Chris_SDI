@@ -53,14 +53,14 @@ console.log(areaTriangle);
 // Modulo - %
 // Gives the remainder
 
-var remainder = 32%10
+var remainder = 32%10;
 console.log(remainder);
 
 // Find if even or odd
 // Modulo by 2 %2
 // 1 if it is odd
 // 0 if even
-var evenOrOdd = 67%2
+var evenOrOdd = 67%2;
 console.log(evenOrOdd);
 
 // Assignments Operators
@@ -91,9 +91,28 @@ counter /=2; // Counter = counter/2;
 console.log(counter);
 
 counter *=4; // counter = counter *4;
-counter.log(counter);
+console.log(counter);
 
 
+// String - is any text variable
+// "is used at the beginning and end of the string"
+// Used to distinguish between variable name and random text
+// Single quotes ' double quotes " are both used, BUT they must match
+
+var kermit = "Light green";
+var frogName = "kermit";
+
+console.log(frogName);
+
+// Double quote or single quote?
+// Use an escaping character \ (backslash) in front of the apostrophe
+
+var phrase = 'I don\'t know!';
+console.log(phrase);
+
+// Multi-lines by using \n - new line character
+var phrase2 = "I don't know! \nYou never know!";
+console.log(phrase2);
 
 
 
