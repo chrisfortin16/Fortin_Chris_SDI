@@ -56,7 +56,7 @@ var discountPercentage = .5; // Defining the discounted price
 
 var descriptionOfItem = "large tomatoes"; // Defining the name of of the product
 
-var salesTaxPercentage = .3; // Defining the sales tax
+var salesTaxPercentage = .2; // Defining the sales tax
 
 var price = originalPrice + (salesTaxPercentage * originalPrice) - (originalPrice * discountPercentage); // Doing the math to find what the price is discounted and with the sales price
 var price2 = originalPrice - (originalPrice * discountPercentage); // Doing the math to find the original price minus the discount price
