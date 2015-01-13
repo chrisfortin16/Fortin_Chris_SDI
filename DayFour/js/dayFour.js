@@ -41,9 +41,8 @@ console.log(avengersNames.length);
 
 // Recruit a new team member
 avengersNames[avengersNames.length] = "Powerman"
-
 console.log(avengersNames);
-
+console.log(avengersNames.length);
 
 
 
