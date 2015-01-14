@@ -3,7 +3,7 @@
 Chris Fortin
 SDI Campus
 1/13/15
-NAMEHERE
+Expressions Assignment
  */
 
 //alert("Testing to see if this works");
