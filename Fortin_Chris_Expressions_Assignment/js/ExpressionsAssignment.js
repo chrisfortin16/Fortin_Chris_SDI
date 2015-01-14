@@ -20,11 +20,17 @@ NAMEHERE
  var classAverage = [(Number(testOne) + Number(testTwo) + Number(testThree) + Number(testFour)) / 4];
  console.log("The class average after adding up the scores was " + classAverage);
 
- prompt("After adding up the scores your class average was " + classAverage);
+ alert("After adding up the scores your class average was " + classAverage);
 
+ alert("Good new everybody! The teacher decided to give 5 points of extra credit to all the scores!");
 
+ var newClassAverage =[(Number(testOne) + 5, + Number(testTwo) + 5, + Number(testThree) + 5, + Number(testFour) + 5) / 4];
+ console.log("You got an average of " + newClassAverage + " points in extra credit.");
 
+ var complete = Number(newClassAverage) + Number(classAverage);
 
+ console.log("The class got an average of " + complete + ".");
+ alert("The class got a average of " + complete + ".");
 
 
 
