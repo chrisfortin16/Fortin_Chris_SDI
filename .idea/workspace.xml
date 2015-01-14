@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="39063f65-b52d-413c-8108-2fe8dfffdae9" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/DayFour/js/dayFour.js" afterPath="$PROJECT_DIR$/DayFour/js/dayFour.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DayFour/dayFourPrompting.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DayFour/js/dayFour_Prompting.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="Fortin_Chris_SDI.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -26,11 +28,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="dayFour.js" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/DayFour/js/dayFour.js">
+      <file leaf-file-name="dayFour_Prompting.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/DayFour/js/dayFour_Prompting.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.6724891" vertical-offset="1158" max-vertical-offset="1890">
-              <caret line="108" column="0" selection-start-line="108" selection-start-column="0" selection-end-line="108" selection-end-column="0" />
+            <state vertical-scroll-proportion="0.17467248" vertical-offset="0" max-vertical-offset="687">
+              <caret line="8" column="0" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
               <folding>
                 <element signature="n#!!doc" expanded="true" />
               </folding>
@@ -38,8 +40,8 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="dayFourArrays.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/DayFour/dayFourArrays.html">
+      <file leaf-file-name="dayFourPrompting.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/DayFour/dayFourPrompting.html">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="-6.25" vertical-offset="0" max-vertical-offset="240">
               <caret line="10" column="7" selection-start-line="10" selection-start-column="7" selection-end-line="10" selection-end-column="7" />
@@ -62,6 +64,9 @@
         <option value="$PROJECT_DIR$/Day3LabExpressions/js/script.js" />
         <option value="$PROJECT_DIR$/DayFour/dayFourArrays.html" />
         <option value="$PROJECT_DIR$/DayFour/js/dayFour.js" />
+        <option value="$PROJECT_DIR$/DayFour/js/dayFour_Promting.js" />
+        <option value="$PROJECT_DIR$/DayFour/dayFourPrompting.html" />
+        <option value="$PROJECT_DIR$/DayFour/js/dayFour_Prompting.js" />
       </list>
     </option>
   </component>
@@ -288,7 +293,7 @@
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="100">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <element signature="n#!!doc" expanded="true" />
+            <element signature="n#!!doc" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -312,7 +317,7 @@
         <state vertical-scroll-proportion="1.2663755" vertical-offset="0" max-vertical-offset="1140">
           <caret line="58" column="27" selection-start-line="58" selection-start-column="27" selection-end-line="58" selection-end-column="27" />
           <folding>
-            <element signature="n#!!doc" expanded="true" />
+            <element signature="n#!!doc" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -327,7 +332,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/DayFour/dayFourArrays.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-6.25" vertical-offset="0" max-vertical-offset="240">
+        <state vertical-scroll-proportion="0.22624435" vertical-offset="0" max-vertical-offset="663">
           <caret line="10" column="7" selection-start-line="10" selection-start-column="7" selection-end-line="10" selection-end-column="7" />
           <folding />
         </state>
@@ -337,6 +342,24 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.6724891" vertical-offset="1158" max-vertical-offset="1890">
           <caret line="108" column="0" selection-start-line="108" selection-start-column="0" selection-end-line="108" selection-end-column="0" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DayFour/dayFourPrompting.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-6.25" vertical-offset="0" max-vertical-offset="240">
+          <caret line="10" column="7" selection-start-line="10" selection-start-column="7" selection-end-line="10" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DayFour/js/dayFour_Prompting.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.17467248" vertical-offset="0" max-vertical-offset="687">
+          <caret line="8" column="0" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
           <folding>
             <element signature="n#!!doc" expanded="true" />
           </folding>
