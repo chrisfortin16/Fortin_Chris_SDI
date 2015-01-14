@@ -44,9 +44,67 @@ avengersNames[avengersNames.length] = "Powerman"
 console.log(avengersNames);
 console.log(avengersNames.length);
 
+// Pick oranges and track how many we have
+
+var orangeBins = [12, 20, 14];
+
+// How many bins of oranges did we pick in total?
+
+var total = orangeBins[0] + orangeBins[1] + orangeBins[2] ;
+
+console.log("You collected a total of " + total + " orange bins.");
 
 
+// Advanced Arrays
 
+var fruitBowl = ["Orange", "Tomato", "Strawberry"];
+
+// Property - Length - How many items are in the array?
+
+console.log("You have " + fruitBowl.length + " items in your fruit bowl.");
+
+
+// Method of Arrays
+
+// Push - inserts an item at the end of our array
+// arrayName.push(item to push);
+
+fruitBowl.push("Apple");
+
+// See fruit bowl
+
+console.log(fruitBowl);
+
+fruitBowl.push("Grape");
+
+console.log(fruitBowl);
+
+
+// Pop - takes off the last item in an array AND returns it
+// arrayName.pop()
+// Create a variable to "catch" the return value
+var caught = fruitBowl.pop();
+console.log(fruitBowl);
+console.log(caught);
+var caught2 = fruitBowl.pop();
+console.log(fruitBowl);
+console.log(caught2);
+
+
+// Splice - for removing or adding items into a exising arrays together
+// arrayName.splice(index #  to start from, # of items to remove, items to put in)
+
+fruitBowl.splice(2,0,"Banana");
+console.log(fruitBowl);
+
+// Say we wanted to replace something
+
+fruitBowl.splice(1,1,"Kiwi");
+console.log(fruitBowl);
+
+// To add more items
+fruitBowl.splice(1,0,"Mango","Pineapple","Carrot");
+console.log(fruitBowl);
 
 
 
