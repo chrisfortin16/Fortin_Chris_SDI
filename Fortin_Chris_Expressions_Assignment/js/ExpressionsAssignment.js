@@ -32,7 +32,7 @@ Expressions Assignment
  console.log("The class got an average of " + complete + "."); // Printing the results to the console log
  alert("The class got a average of " + complete + "."); // Printing the results to the user via alert
 
-
+// I typed Chris for the name, 99 for the first test, 98 for the second test, 97 for the third test, and 96 for the last test. I got a total of 97.5 and with 5 points extra credit to all tests, I got 122.75 as the class average.
 
 
 
