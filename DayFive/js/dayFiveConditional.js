@@ -2,7 +2,7 @@
  /*
 Chris Fortin
 SDI Campus
-1/13/15
+1/15/15
 Conditionals
  */
 
@@ -99,6 +99,15 @@ if(condition1 to test){
 }
 
  */
+
+
+
+
+
+
+
+
+
 
 
 

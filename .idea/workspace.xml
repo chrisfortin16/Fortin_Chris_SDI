@@ -2,7 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="39063f65-b52d-413c-8108-2fe8dfffdae9" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DayFive/dayFiveLogicalOperators.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DayFive/js/dayFive_logicalOperators.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/DayFive/js/dayFiveConditional.js" afterPath="$PROJECT_DIR$/DayFive/js/dayFiveConditional.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="Fortin_Chris_SDI.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -30,27 +33,37 @@
         <entry file="file://$PROJECT_DIR$/Fortin_Chris_Expressions_Assignment/js/ExpressionsAssignment.js">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0" vertical-offset="15" max-vertical-offset="855">
-              <caret line="21" column="0" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
+              <caret line="4" column="4" selection-start-line="4" selection-start-column="4" selection-end-line="4" selection-end-column="4" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="dayFiveConditional.js" pinned="false" current-in-tab="true">
+      <file leaf-file-name="dayFiveConditional.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/DayFive/js/dayFiveConditional.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.80349344" vertical-offset="813" max-vertical-offset="1785">
-              <caret line="91" column="55" selection-start-line="91" selection-start-column="55" selection-end-line="91" selection-end-column="55" />
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1920">
+              <caret line="4" column="4" selection-start-line="4" selection-start-column="4" selection-end-line="4" selection-end-column="4" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="dayFiveConditional.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/DayFive/dayFiveConditional.html">
+      <file leaf-file-name="dayFive_logicalOperators.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/DayFive/js/dayFive_logicalOperators.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-2.5" vertical-offset="0" max-vertical-offset="240">
-              <caret line="4" column="39" selection-start-line="4" selection-start-column="39" selection-end-line="4" selection-end-column="39" />
+            <state vertical-scroll-proportion="0.17467248" vertical-offset="0" max-vertical-offset="687">
+              <caret line="8" column="2" selection-start-line="8" selection-start-column="2" selection-end-line="8" selection-end-column="2" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="dayFiveLogicalOperators.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/DayFive/dayFiveLogicalOperators.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-3.125" vertical-offset="0" max-vertical-offset="240">
+              <caret line="5" column="49" selection-start-line="5" selection-start-column="49" selection-end-line="5" selection-end-column="49" />
               <folding />
             </state>
           </provider>
@@ -77,9 +90,12 @@
         <option value="$PROJECT_DIR$/DayFour/dayFourCasting.html" />
         <option value="$PROJECT_DIR$/DayFour/js/dayFour_Casting.js" />
         <option value="$PROJECT_DIR$/Fortin_Chris_Expressions_Assignment/ExpressionsAssignment.html" />
-        <option value="$PROJECT_DIR$/Fortin_Chris_Expressions_Assignment/js/ExpressionsAssignment.js" />
         <option value="$PROJECT_DIR$/DayFive/dayFiveConditional.html" />
+        <option value="$PROJECT_DIR$/Fortin_Chris_Expressions_Assignment/js/ExpressionsAssignment.js" />
         <option value="$PROJECT_DIR$/DayFive/js/dayFiveConditional.js" />
+        <option value="$PROJECT_DIR$/DayFive/js/dayFive_logicalOperatiors.js" />
+        <option value="$PROJECT_DIR$/DayFive/dayFiveLogicalOperators.html" />
+        <option value="$PROJECT_DIR$/DayFive/js/dayFive_logicalOperators.js" />
       </list>
     </option>
   </component>
@@ -393,23 +409,39 @@
     <entry file="file://$PROJECT_DIR$/Fortin_Chris_Expressions_Assignment/js/ExpressionsAssignment.js">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="15" max-vertical-offset="855">
-          <caret line="21" column="0" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/DayFive/dayFiveConditional.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-2.5" vertical-offset="0" max-vertical-offset="240">
-          <caret line="4" column="39" selection-start-line="4" selection-start-column="39" selection-end-line="4" selection-end-column="39" />
+          <caret line="4" column="4" selection-start-line="4" selection-start-column="4" selection-end-line="4" selection-end-column="4" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/DayFive/js/dayFiveConditional.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.80349344" vertical-offset="813" max-vertical-offset="1785">
-          <caret line="91" column="55" selection-start-line="91" selection-start-column="55" selection-end-line="91" selection-end-column="55" />
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1920">
+          <caret line="4" column="4" selection-start-line="4" selection-start-column="4" selection-end-line="4" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DayFive/dayFiveConditional.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.09049774" vertical-offset="0" max-vertical-offset="663">
+          <caret line="4" column="39" selection-start-line="4" selection-start-column="39" selection-end-line="4" selection-end-column="39" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DayFive/dayFiveLogicalOperators.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-3.125" vertical-offset="0" max-vertical-offset="240">
+          <caret line="5" column="49" selection-start-line="5" selection-start-column="49" selection-end-line="5" selection-end-column="49" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DayFive/js/dayFive_logicalOperators.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.17467248" vertical-offset="0" max-vertical-offset="687">
+          <caret line="8" column="2" selection-start-line="8" selection-start-column="2" selection-end-line="8" selection-end-column="2" />
           <folding />
         </state>
       </provider>
