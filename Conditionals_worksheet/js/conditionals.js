@@ -35,10 +35,10 @@ if(efficiency * capacity * gauge > 200){ // Deciding what to display
  // Multiple Results
  // Grade Letter Calculator
 
- var grade = 95;
- var letter = "";
+ var grade = 95; // Defining the point grade
+ var letter = ""; // Defining the letter grade
 
-if(grade >= 95){
+if(grade >= 95){      // This is the grading calculator if the grade is lower then a set number then print out that specific grade.
  letter = "A+";
 }else if(grade >= 90){
   letter = "A";
@@ -56,18 +56,18 @@ if(grade >= 95){
   letter = "F";
  }
 
-console.log("You have a " + grade + "%, which means you have earned a(n) " + letter + " in the class!");
+console.log("You have a " + grade + "%, which means you have earned a(n) " + letter + " in the class!"); // Printing out the result and adding a string
 
 
 // Multiple Conditions
 // Tire Pressure
 
- var arr = [31, 31, 30, 30];
+ var arr = [31, 31, 30, 30]; // Creating the array and giving it values
 
- if(arr[0] === arr[1] && arr[2] === arr[3]){
- console.log("The tires pass spec!");
+ if(arr[0] === arr[1] && arr[2] === arr[3]){ // making sure the front tire pressure is the same for both tires, same with the back tires
+ console.log("The tires pass spec!"); // printing out if the tires pass inspection
  }else{
-  console.log("Get your tires checked out!")
+  console.log("Get your tires checked out!") // printing out if the tires don't pass inspection
  }
 
 
