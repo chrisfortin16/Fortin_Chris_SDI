@@ -17,6 +17,7 @@ Conditionals Worksheet
   Use only code and techniques learned in this class.
   */
 
+ // Expressions with Conditionals
  // Last Chance for Gas!
 
  var capacity = 20; // capacity of the gas tank for the car
@@ -30,5 +31,38 @@ if(efficiency * capacity * gauge > 200){
 } else{
  console.log("You only have "+ gasTankTotal +" gallons of gas in your tank, better get gas now while you can!");
 }
+
+ // Multiple Results
+ // Grade Letter Calculator
+
+ var grade = 95;
+ var letter = "";
+
+if(grade >= 95){
+ letter = "A+";
+}else if(grade >= 90){
+  letter = "A";
+}else if(grade >= 85){
+  letter = "B+";
+}else if(grade >= 80){
+  letter = "B";
+}else if(grade >= 76){
+  letter = "C+";
+}else if(grade >= 73){
+  letter = "C";
+}else if(grade >= 70){
+  letter = "D";
+}else if (grade <= 69){
+  letter = "F";
+ }
+
+console.log("You have a " + grade + "%, which means you have earned a(n) " + letter + " in the class!");
+
+
+// Multiple Conditions
+// Tire Pressure
+
+
+
 
 
