@@ -24,12 +24,12 @@ Conditionals Worksheet
  var efficiency = 15; // how far your car will go on one gallon
  var gauge =  .50; // How much gas you have in your tank
 
- var gasTankTotal = capacity * gauge;
+ var gasTankTotal = capacity * gauge; // Multiplying the gas tank by the capacity and the % of how much is in the tank
 
-if(efficiency * capacity * gauge > 200){
- console.log("Yes, you can make it without stopping for gas!");
+if(efficiency * capacity * gauge > 200){ // Deciding what to display
+ console.log("Yes, you can make it without stopping for gas!"); // what will display if you have enough gas
 } else{
- console.log("You only have "+ gasTankTotal +" gallons of gas in your tank, better get gas now while you can!");
+ console.log("You only have "+ gasTankTotal +" gallons of gas in your tank, better get gas now while you can!"); // What will display if you don't have enough gas
 }
 
  // Multiple Results
