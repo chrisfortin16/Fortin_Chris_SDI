@@ -2,10 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="39063f65-b52d-413c-8108-2fe8dfffdae9" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DayFive/dayFiveLogicalOperators.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DayFive/js/dayFive_logicalOperators.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/DayFive/js/dayFiveConditional.js" afterPath="$PROJECT_DIR$/DayFive/js/dayFiveConditional.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/DayFive/js/dayFive_logicalOperators.js" afterPath="$PROJECT_DIR$/DayFive/js/dayFive_logicalOperators.js" />
     </list>
     <ignored path="Fortin_Chris_SDI.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -52,8 +49,8 @@
       <file leaf-file-name="dayFive_logicalOperators.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/DayFive/js/dayFive_logicalOperators.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.17467248" vertical-offset="0" max-vertical-offset="687">
-              <caret line="8" column="2" selection-start-line="8" selection-start-column="2" selection-end-line="8" selection-end-column="2" />
+            <state vertical-scroll-proportion="0.80349344" vertical-offset="153" max-vertical-offset="990">
+              <caret line="47" column="22" selection-start-line="47" selection-start-column="22" selection-end-line="47" selection-end-column="22" />
               <folding />
             </state>
           </provider>
@@ -396,6 +393,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.51965064" vertical-offset="348" max-vertical-offset="1110">
           <caret line="47" column="17" selection-start-line="47" selection-start-column="9" selection-end-line="47" selection-end-column="17" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -440,8 +438,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/DayFive/js/dayFive_logicalOperators.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.17467248" vertical-offset="0" max-vertical-offset="687">
-          <caret line="8" column="2" selection-start-line="8" selection-start-column="2" selection-end-line="8" selection-end-column="2" />
+        <state vertical-scroll-proportion="0.80349344" vertical-offset="153" max-vertical-offset="990">
+          <caret line="47" column="22" selection-start-line="47" selection-start-column="22" selection-end-line="47" selection-end-column="22" />
           <folding />
         </state>
       </provider>
