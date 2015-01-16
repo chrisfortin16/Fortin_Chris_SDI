@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="39063f65-b52d-413c-8108-2fe8dfffdae9" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DayFive/dayFive_ternary.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DayFive/js/dayFive_ternary.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/DayFive/js/dayFive_ternary.js" afterPath="$PROJECT_DIR$/DayFive/js/dayFive_ternary.js" />
     </list>
     <ignored path="Fortin_Chris_SDI.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -31,8 +29,8 @@
       <file leaf-file-name="dayFive_ternary.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/DayFive/js/dayFive_ternary.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.1091703" vertical-offset="0" max-vertical-offset="687">
-              <caret line="5" column="7" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="7" />
+            <state vertical-scroll-proportion="0.51965064" vertical-offset="123" max-vertical-offset="810">
+              <caret line="32" column="13" selection-start-line="32" selection-start-column="13" selection-end-line="32" selection-end-column="13" />
               <folding />
             </state>
           </provider>
@@ -335,6 +333,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="2655">
           <caret line="165" column="21" selection-start-line="165" selection-start-column="6" selection-end-line="165" selection-end-column="21" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -438,8 +437,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/DayFive/js/dayFive_ternary.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.1091703" vertical-offset="0" max-vertical-offset="687">
-          <caret line="5" column="7" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="7" />
+        <state vertical-scroll-proportion="0.51965064" vertical-offset="123" max-vertical-offset="810">
+          <caret line="32" column="13" selection-start-line="32" selection-start-column="13" selection-end-line="32" selection-end-column="13" />
           <folding />
         </state>
       </provider>
