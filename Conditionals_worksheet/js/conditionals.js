@@ -62,6 +62,14 @@ console.log("You have a " + grade + "%, which means you have earned a(n) " + let
 // Multiple Conditions
 // Tire Pressure
 
+ var arr = [31, 31, 30, 30];
+
+ if(arr[0] === arr[1] && arr[2] === arr[3]){
+ console.log("The tires pass spec!");
+ }else{
+  console.log("Get your tires checked out!")
+ }
+
 
 
 
