@@ -42,17 +42,17 @@ console.log("The total weight in the elevator is " + elevTotal + "."); // Printi
 
 var maxLoad = 1200 - (arrayName[0] + arrayName[1] + arrayName[2] + arrayName[3]); // Using my second assignment operatior
 
-console.log("Based on the numbers you entered you still have " + maxLoad + " pounds left before the elevator fails");
+console.log("Based on the numbers you entered you still have " + maxLoad + " pounds left before the elevator fails"); // Printing out a sting to the console.log
 
-console.log("Right before the ground floor, the elevator stops to get more people.");
-var num5 = parseInt(prompt("Please enter the weight of the fifth person to get on."));
-var num6 = parseInt(prompt("Please enther the weight of the last person, be concious of the fact this elevator is packed!"));
+console.log("Right before the ground floor, the elevator stops to get more people."); // Adding on to the story so I can get my 2 if statements in
+var num5 = parseInt(prompt("Please enter the weight of the fifth person to get on.")); // Defining the 5th number
+var num6 = parseInt(prompt("Please enther the weight of the last person, be concious of the fact this elevator is packed!")); // Defining the 6th number
 
-var arrayName = [num1, num2, num3, num4, num5, num6];
+var arrayName = [num1, num2, num3, num4, num5, num6]; // adding the new 2 variables into the array
 
-var totalNew = arrayName[0] + arrayName[1] + arrayName[2] + arrayName[3] + arrayName[4] + arrayName[5];
+var totalNew = arrayName[0] + arrayName[1] + arrayName[2] + arrayName[3] + arrayName[4] + arrayName[5]; // adding up the array
 
-(totalNew < 1200) ? console.log("Congrats! Everyone fit on the elevator without disaster!"):
+(totalNew < 1200) ? console.log("Congrats! Everyone fit on the elevator without disaster!"): 
 console.log("Sorry! Everyone on the elevator weighed to much! everyone crached and died in a firey death!");
 
 
