@@ -16,15 +16,15 @@ e. Must	contain	at least 3 user prompts that are used in calculations
 f. All prompts must be validated
 */
 
-alert("Overloading a elevator");
+alert("Overloading a elevator"); //Starting off the code with the name 
 
-var num1 = parseInt(prompt("Please enter the weight of the the first person!"));
+var num1 = parseInt(prompt("Please enter the weight of the the first person!"));  //Asking the user to input the numbers
 var num2 = parseInt(prompt("Please enter the second weight!"));
 var num3 = parseInt(prompt("Please enter the thrid persons weight!"));
 var num4 = parseInt(prompt("Please enther the last persons weight"));
 
 if (isNaN(num1)) {
-    console.log("You did not put anything for the weight of the first person! A person can't weigh 0 thats impossible!");
+    console.log("You did not put anything for the weight of the first person! A person can't weigh 0 thats impossible!"); //Making sure the user put something in for the prompts
 }else if (isNaN(num2)) {
     console.log("You did not put anything for the weight of the second person!");
 }else if (isNaN(num3)) {
@@ -34,13 +34,13 @@ if (isNaN(num1)) {
 }else{
 }
 
-var arrayName = [num1, num2, num3, num4, num5, num6];
+var arrayName = [num1, num2, num3, num4, num5, num6]; // Creating an array
 
-var elevTotal = arrayName[0] + arrayName[1] + arrayName[2] + arrayName[3];
+var elevTotal = arrayName[0] + arrayName[1] + arrayName[2] + arrayName[3]; // Adding up the first part of the array
 
-console.log("The total weight in the elevator is " + elevTotal + ".");
+console.log("The total weight in the elevator is " + elevTotal + "."); // Printing out the total to the console log
 
-var maxLoad = 1200 - (arrayName[0] + arrayName[1] + arrayName[2] + arrayName[3]);
+var maxLoad = 1200 - (arrayName[0] + arrayName[1] + arrayName[2] + arrayName[3]); // Using my second assignment operatior
 
 console.log("Based on the numbers you entered you still have " + maxLoad + " pounds left before the elevator fails");
 
