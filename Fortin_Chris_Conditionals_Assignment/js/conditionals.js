@@ -52,8 +52,8 @@ var arrayName = [num1, num2, num3, num4, num5, num6]; // adding the new 2 variab
 
 var totalNew = arrayName[0] + arrayName[1] + arrayName[2] + arrayName[3] + arrayName[4] + arrayName[5]; // adding up the array
 
-(totalNew < 1200) ? console.log("Congrats! Everyone fit on the elevator without disaster!"): 
-console.log("Sorry! Everyone on the elevator weighed to much! everyone crached and died in a firey death!");
+(totalNew < 1200) ? console.log("Congrats! Everyone fit on the elevator without disaster!"): // Makeing sure the weight limit is effective
+console.log("Sorry! Everyone on the elevator weighed to much! everyone crached and died in a firey death!"); // Printing out what will happen if there are to many people on the elevator
 
 
 
