@@ -44,6 +44,7 @@ nav h4{
     font-size: 16px;
 }
 a{
+    padding: 0 0 10px 0;
     color: #E1DFD3;
 }
 a:hover{
