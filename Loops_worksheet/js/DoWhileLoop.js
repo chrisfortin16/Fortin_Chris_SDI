@@ -6,7 +6,7 @@
 */
 
 //alert("Testing to see if this works!");
-
+/*
 var counting = 0;
 
 while(counting < 26){
@@ -14,3 +14,4 @@ while(counting < 26){
     
     counting++;
 }
+*/
