@@ -7,10 +7,16 @@
 
 //alert("Testing to see if this works!");
 
-var counting = 0;
+var counting = prompt("Please enter your age!");
 
-while(counting < 26){
-    console.log("My While loop is running at "+counting+ " per second!");
+while (isNaN(counting) || counting === "") {
+  
+counting = prompt("Please ONLY use numbers, Please enter your age.");
+
+}
+
+while(counting < 100){
+    console.log("At "+counting+" years old, you are currently "+ (100 - counting) +" years away from 100.");
     
     counting++;
 }
