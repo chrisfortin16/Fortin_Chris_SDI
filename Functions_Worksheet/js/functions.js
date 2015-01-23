@@ -31,20 +31,20 @@ calcCircle(a*b*c);
 
 var first = 2; // Set a number for the first variable
 var second = 3.14; // Set a second number for the second variable
-var radius = prompt("Please enter a number for the radius of a circle");
+var radius = prompt("Please enter a number for the radius of a circle"); // Asking the user to enter a number for the radius
 
-while(radius === "" || isNaN(radius)){
-    var radius = prompt("You did not a number in for the radius. \n Please enter a valid number.");
+while(radius === "" || isNaN(radius)){ // validating the user is typing in a number 
+    var radius = prompt("You did not a number in for the radius. \n Please enter a valid number."); // Prompting the user if they didnt enter in a correct 
 }
 
 
-function CalcCircle(first, second, radius) {
+function CalcCircle(first, second, radius) { // Starting the function
    
-    return circumfrence;
-}CalcCircle();
- var circumfrence = (first * second * radius);
+    return circumfrence; // Retuning the function
+}CalcCircle(); //calling the function
+ var circumfrence = (first * second * radius); // Calculating the proplem
 
-console.log("The circimfrence of the cirlce is "+circumfrence);
+console.log("The circimfrence of the cirlce is "+circumfrence); // Printing out the result for the user to see
 
 
 
