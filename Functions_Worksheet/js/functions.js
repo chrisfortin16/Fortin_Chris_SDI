@@ -29,9 +29,14 @@ function calcCircle(a,b,c) {
 calcCircle(a*b*c);
 */
 
-var first = 2;
-var second = 3.14;
-var radius = 12;
+var first = 2; // Set a number for the first variable
+var second = 3.14; // Set a second number for the second variable
+var radius = prompt("Please enter a number for the radius of a circle");
+
+while(radius === "" || isNaN(radius)){
+    var radius = prompt("You did not a number in for the radius. \n Please enter a valid number.");
+}
+
 
 function CalcCircle(first, second, radius) {
    
@@ -51,7 +56,7 @@ var kill = 8.666666667
 var weight = prompt("What is the weight of the victim?");
 
 while (weight === "" || isNaN(weight)) {
-    prompt("You did not enter a valid weight. \n Please enter a valid weight.");
+    var weight = prompt("You did not enter a valid weight. \n Please enter a valid weight.");
 }
 
 function toKillAperson(kill, wight) {
