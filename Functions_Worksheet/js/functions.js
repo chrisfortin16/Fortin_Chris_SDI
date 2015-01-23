@@ -51,22 +51,22 @@ console.log("The circimfrence of the cirlce is "+circumfrence); // Printing out 
 
 
 // Stung!
-var kill = 8.666666667
+var kill = 8.666666667 // A set number for how many bee stings it takes to kill someone
 
-var weight = prompt("What is the weight of the victim?");
+var weight = prompt("What is the weight of the victim?"); // asking the user to input the weight of the victim 
 
-while (weight === "" || isNaN(weight)) {
-    var weight = prompt("You did not enter a valid weight. \n Please enter a valid weight.");
+while (weight === "" || isNaN(weight)) { // Making sure the user entered a valid number
+    var weight = prompt("You did not enter a valid weight. \n Please enter a valid weight."); // Prompting them to re enter the number
 }
 
-function toKillAperson(kill, wight) {
+function toKillAperson(kill, wight) { // Adding the pramiters to the function
     
-    return toKillAperson;
+    return toKillAperson; // Returning the function
     
 }
-var toKillAperson = (kill * weight);
+var toKillAperson = (kill * weight); // Calculating the function with the numbers
 
-console.log("I takes "+toKillAperson+" bee stinks to kill a someone who weighs "+weight+" pounds.");
+console.log("I takes "+toKillAperson+" bee stinks to kill a someone who weighs "+weight+" pounds."); // Printing out the result for the user to see
 
 
 
