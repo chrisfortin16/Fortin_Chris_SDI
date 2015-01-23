@@ -23,7 +23,7 @@ while (movie === "") {
 
 var ticketPrice = prompt("How much is a movie ticket?");
 
-while(isNan(ticketPrice)){
+while(isNaN(ticketPrice)){
     // user did not type in the number
     // reprompted for the number
     ticketPrice = prompt("Please only use numbers! Please enter a price.");
