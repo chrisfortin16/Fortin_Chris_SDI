@@ -52,7 +52,7 @@ age = prompt("Only use numbers, Please enter your age.");
 var choice = prompt("Please type in yes or no");
 
 // Convert to lower case
-choice = choice.toLowerCase();
+choice = choice.toLowerCase(); // THE SHIIIIT
 
 while (choice != "yes" && choice!="no") {
     
