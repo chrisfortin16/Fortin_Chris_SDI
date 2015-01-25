@@ -19,7 +19,7 @@
  * Basic structire of anon function
  * var functionName = function(parameters){
     Code to run goes here.
- }
+ }}
  */
 
 // Function call BEFORE the normal function is defined
