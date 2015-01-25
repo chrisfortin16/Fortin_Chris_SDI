@@ -49,6 +49,9 @@ total = total.toFixed(2);
 console.log("Based on the numbers you entered for amount of potatos and salt "+potato+", "+salt+", and the amount of stores, "+overall+". You created "+total+" bags of chips");
 
 
+/* For my example calculations I used 50 for potatos and 2 for salt and I got 14.29 bags of chips.
+ * When I put in 60 for the amount of stores I got 857.14 bags of chips.
+ */
 
 
 
