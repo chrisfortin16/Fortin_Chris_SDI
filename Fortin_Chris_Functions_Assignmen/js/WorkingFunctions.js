@@ -13,15 +13,15 @@
 
 
 
-var potato = prompt("Please enter how many potatos you have.");
-while(potato === "" || isNaN(potato)){
-    potato = prompt("You must put a number, you must put something in the box. \n Please enter a amount for potatos.");
+var potato = prompt("Please enter how many potatos you have."); // Prompting the user to put in a value for potato
+while(potato === "" || isNaN(potato)){ // Validationg they put something in the prompt
+    potato = prompt("You must put a number, you must put something in the box. \n Please enter a amount for potatos."); // Re prompting if they didnt
 }
-console.log("You entered "+potato+" for the amount of potatos you have.");
+console.log("You entered "+potato+" for the amount of potatos you have."); // Printing out the amount they entered
 
-var salt = prompt("Please enter the amount of salt you have in pounds.");
-while(salt === "" || isNaN(salt)){
-    console.log("You must enter a number, you must put something in the box. \n Please enter a amount for salt.");
+var salt = prompt("Please enter the amount of salt you have in pounds."); // Prompting the user to put in a value for salt
+while(salt === "" || isNaN(salt)){ // making sure the user put something in for the value
+    console.log("You must enter a number, you must put something in the box. \n Please enter a amount for salt."); // Telling the to re enter a value
 }
 console.log("You entered "+salt+" for the amount of salt you have.");
 
@@ -29,7 +29,6 @@ function bagOfChips(bg, st) {
     var result1 = (potato / 3.5) * (salt / 2);
     return result1;
 }
-var newValue = bagOfChips(potato, salt);
 newValue = newValue.toFixed(2);
 console.log("You have "+newValue+" bags of chips.");
 
