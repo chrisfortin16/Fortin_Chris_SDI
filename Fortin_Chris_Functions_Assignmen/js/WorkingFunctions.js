@@ -23,29 +23,29 @@ var salt = prompt("Please enter the amount of salt you have in pounds."); // Pro
 while(salt === "" || isNaN(salt)){ // making sure the user put something in for the value
     console.log("You must enter a number, you must put something in the box. \n Please enter a amount for salt."); // Telling the to re enter a value
 }
-console.log("You entered "+salt+" for the amount of salt you have.");
+console.log("You entered "+salt+" for the amount of salt you have."); // Printing out what the user put in
 
-function bagOfChips(bg, st) {
-    var result1 = (potato / 3.5) * (salt / 2);
-    return result1;
+function bagOfChips(bg, st) { // First function 
+    var result1 = (potato / 3.5) * (salt / 2); // Calculations for the function
+    return result1; // Returning the function
 }
-newValue = newValue.toFixed(2);
-console.log("You have "+newValue+" bags of chips.");
+newValue = newValue.toFixed(2); //to.Fixing the number to only 2 places
+console.log("You have "+newValue+" bags of chips."); // Printing out the new value after calculations
 
-var overall = prompt("Please enter how many stores needs refills of chips");
-while (overall === "" || isNaN(overall)){
-    overall = prompt("Please only enter numbers, and do not leave blank \n Please enter how many stores needs your bags of chips");
+var overall = prompt("Please enter how many stores needs refills of chips"); // prompting the user for how many stores there are
+while (overall === "" || isNaN(overall)){ // validating they put something
+    overall = prompt("Please only enter numbers, and do not leave blank \n Please enter how many stores needs your bags of chips"); // re prompting the user
 }
 
-var store = function(p, s, o){
-    var total = p/3.5 * s/2 *o;
-    return total;
+var store = function(p, s, o){ // store functioin 
+    var total = p/3.5 * s/2 *o; // calculations of the function
+    return total; // returning the function
 };
 
 // Function call after defined of anon function
-var total = store(potato, salt, overall);
-total = total.toFixed(2);
-console.log("Based on the numbers you entered for amount of potatos and salt "+potato+", "+salt+", and the amount of stores, "+overall+". You created "+total+" bags of chips");
+var total = store(potato, salt, overall); // adding the numbers to the function calculation
+total = total.toFixed(2); // to.Fixing the result to only 2 decimal places
+console.log("Based on the numbers you entered for amount of potatos and salt "+potato+", "+salt+", and the amount of stores, "+overall+". You created "+total+" bags of chips"); // printing out the final results
 
 
 /* For my example calculations I used 50 for potatos and 2 for salt and I got 14.29 bags of chips.
