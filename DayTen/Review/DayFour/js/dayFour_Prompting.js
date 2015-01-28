@@ -18,8 +18,14 @@ console.log("Your year of birth is " + userInput + " you filthy muggle.");
 // Create 2 variables and prompt the user for length and width
 
 var length = prompt("Please enter the length of an imaginary rectangle you think up for no reason at all!:");
+while(length === "" || isNaN(length)){
+    length = prompt("You did not enter a valid number for the length \n Please enter a number");
+}
 
 var width = prompt("Please enter the width of an imaginary rectangle you think up for no reason at all!:");
+while(width === "" || isNaN(width)){
+    width = prompt("You did not enter a valid number for the width \n Please enter a number.");
+}
 
 // Calculate area
 var areaRect = length * width;
