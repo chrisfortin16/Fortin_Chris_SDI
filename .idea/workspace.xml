@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="39063f65-b52d-413c-8108-2fe8dfffdae9" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/DayTen/Review/DayFour/js/dayFour_Casting.js" afterPath="$PROJECT_DIR$/DayTen/Review/DayFour/js/dayFour_Casting.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/DayTen/Review/DayFour/js/dayFour_Prompting.js" afterPath="$PROJECT_DIR$/DayTen/Review/DayFour/js/dayFour_Prompting.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/DayTen/Review/DaySix/Fortin_Chris_Day_Six.js" afterPath="$PROJECT_DIR$/DayTen/Review/DaySix/Fortin_Chris_Day_Six.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/DayTen/Review/DayFive/js/dayFive_ternary.js" afterPath="$PROJECT_DIR$/DayTen/Review/DayFive/js/dayFive_ternary.js" />
     </list>
     <ignored path="Fortin_Chris_SDI.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -27,14 +27,12 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="dayFour_Prompting.js" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/DayTen/Review/DayFour/js/dayFour_Prompting.js">
+      <file leaf-file-name="Fortin_Chris_Day_Six.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/DayTen/Review/DaySix/Fortin_Chris_Day_Six.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.67132866" vertical-offset="0" max-vertical-offset="750">
-              <caret line="32" column="0" selection-start-line="32" selection-start-column="0" selection-end-line="32" selection-end-column="0" />
-              <folding>
-                <element signature="n#!!doc" expanded="true" />
-              </folding>
+            <state vertical-scroll-proportion="0.44055945" vertical-offset="0" max-vertical-offset="2040">
+              <caret line="21" column="5" selection-start-line="21" selection-start-column="5" selection-end-line="21" selection-end-column="5" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -81,6 +79,8 @@
         <option value="$PROJECT_DIR$/DayTen/Review/DayThree/js/script.js" />
         <option value="$PROJECT_DIR$/DayTen/Review/DayFour/js/dayFour_Casting.js" />
         <option value="$PROJECT_DIR$/DayTen/Review/DayFour/js/dayFour_Prompting.js" />
+        <option value="$PROJECT_DIR$/DayTen/Review/DayFive/js/dayFive_ternary.js" />
+        <option value="$PROJECT_DIR$/DayTen/Review/DaySix/Fortin_Chris_Day_Six.js" />
       </list>
     </option>
   </component>
@@ -233,33 +233,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="DayFour" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Fortin_Chris_SDI" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Fortin_Chris_SDI" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="DayTen" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Review" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="DayFour" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="js" />
+              <option name="myItemId" value="DaySix" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -643,7 +617,7 @@
         <state vertical-scroll-proportion="1.1958042" vertical-offset="1140" max-vertical-offset="2865">
           <caret line="133" column="0" selection-start-line="133" selection-start-column="0" selection-end-line="133" selection-end-column="0" />
           <folding>
-            <element signature="n#!!doc" expanded="true" />
+            <element signature="n#!!doc" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -661,7 +635,7 @@
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1815">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <element signature="n#!!doc" expanded="true" />
+            <element signature="n#!!doc" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -671,8 +645,40 @@
         <state vertical-scroll-proportion="0.67132866" vertical-offset="0" max-vertical-offset="750">
           <caret line="32" column="0" selection-start-line="32" selection-start-column="0" selection-end-line="32" selection-end-column="0" />
           <folding>
-            <element signature="n#!!doc" expanded="true" />
+            <element signature="n#!!doc" expanded="false" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DayTen/Review/DayFive/js/dayFive_logicalOperators.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.3146853" vertical-offset="225" max-vertical-offset="990">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DayTen/Review/DayFive/js/dayFive_ternary.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.2027972" vertical-offset="95" max-vertical-offset="810">
+          <caret line="16" column="15" selection-start-line="16" selection-start-column="15" selection-end-line="16" selection-end-column="15" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DayTen/Review/DayFive/js/dayFiveConditional.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-1.3216783" vertical-offset="945" max-vertical-offset="1920">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DayTen/Review/DaySix/Fortin_Chris_Day_Six.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.44055945" vertical-offset="0" max-vertical-offset="2040">
+          <caret line="21" column="5" selection-start-line="21" selection-start-column="5" selection-end-line="21" selection-end-column="5" />
+          <folding />
         </state>
       </provider>
     </entry>

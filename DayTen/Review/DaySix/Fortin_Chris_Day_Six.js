@@ -18,26 +18,29 @@
  *>165 steak is burnt to a crisp
 */
 
-//var steakTemp = 119;
-//var steakDone;
-//
-//if (steakTemp < 120) {
-//    var steakDone = "Your steak is undercooked.";
-//}else if (steakTemp <= 124) {
-//    var steakDone = "Your steak is rare.";
-//}else if (steakTemp <= 129) {
-//    var steakDone = "Your steak is medium rare.";
-//}else if (steakTemp <= 139) {
-//    var steakDone = "Your steak is medium.";
-//}else if (steakTemp <= 149) {
-//    var steakDone = "Your steak is medium well.";
-//}else if (steakTemp <= 165) {
-//    var steakDone = "Your steak is well done.";
-//}else if (steakTemp > 165) {
-//    var steakDone = "Your steak is brunt to a crisp.";
-//}
-//console.log("Your steak is " + steakDone + ".");
-//
+var steakTemp = prompt("Please enter a temp for the steak between 110 - 180");
+while(steakTemp > Number(180) || steakTemp < Number(110)){
+    steakTemp = prompt("Please only use a number between 110 and 180")
+}
+var steakDone;
+
+if (steakTemp < 120) {
+    var steakDone = "Your steak is undercooked.";
+}else if (steakTemp <= 124) {
+    var steakDone = "Your steak is rare.";
+}else if (steakTemp <= 129) {
+    var steakDone = "Your steak is medium rare.";
+}else if (steakTemp <= 139) {
+    var steakDone = "Your steak is medium.";
+}else if (steakTemp <= 149) {
+    var steakDone = "Your steak is medium well.";
+}else if (steakTemp <= 165) {
+    var steakDone = "Your steak is well done.";
+}else if (steakTemp > 165) {
+    var steakDone = "Your steak is brunt to a crisp.";
+}
+console.log("Your steak is "+steakDone);
+
 //
 //
 //
@@ -63,15 +66,6 @@
 //}else{
 //    console.log("We're going to the movies!");
 //}
-
-
-
-
-
-
-
-
-
 
 // round(x)
 // Normal rounding .5 and up

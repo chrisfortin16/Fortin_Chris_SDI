@@ -14,7 +14,7 @@ Ternary
 
  // Normal way - If else statement
 
- var gpa = 2.0
+ var gpa = 2.0;
 
  if(gpa > 2.0){
 
