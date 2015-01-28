@@ -7,7 +7,7 @@
 
 //alert("Testing to see if this works");
 // user leaves the prompt blank
-// Retuns a empty text string
+// Returns a empty text string
 var movie = prompt("What is your favorite movie?");
 
 while (movie === "") {
@@ -18,25 +18,25 @@ while (movie === "") {
 
 // test to see if the user typed in a number or not
 //isNaN() = Is not a number
-// text string retrun ture
+// text string return true
 // numbers return false
 
 var ticketPrice = prompt("How much is a movie ticket?");
 
-while(isNaN(ticketPrice)){
+while(isNaN(ticketPrice || ticketPrice === "")){
     // user did not type in the number
-    // reprompted for the number
-    ticketPrice = prompt("Please only use numbers! Please enter a price.");
+    // re-prompted for the number
+    ticketPrice = prompt("Please only use numbers and do not leave blank! Please enter a ticket price.");
 
 }
-
+console.log("The price of a ticket is "+ticketPrice);
 
 
 /*
 // Use both validations in the same while loops
 var age = prompt("To get into r rated movies we must know your age\n How old are you?");
 
-// vaidate that the prompt is not blank and is a number
+// validate that the prompt is not blank and is a number
 
 while (isNaN(age) || age==="") {
     console.log("Inside of while loop");

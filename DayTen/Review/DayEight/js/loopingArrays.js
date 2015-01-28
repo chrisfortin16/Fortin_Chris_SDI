@@ -36,7 +36,7 @@ for(var j = 0; j < bills.length; j++){
     
     // Only care about bills that are equal to or greater then $20
     
-    if (bills[j]>=20) {
+    if (bills[j]>=10) {
         totalBills += bills[j];
     }
     
