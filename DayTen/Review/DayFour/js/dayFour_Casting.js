@@ -10,9 +10,12 @@ NAMEHERE
 
 // Casting one variable type to be another variable type
 
- var stringVar = "6";
- var results = 7 + stringVar;
- console.log(results);
+ var stringVar = prompt("Please enter a vale to start from any number will do.");
+ while(stringVar === "" || isNaN(stringVar)){
+  console.log("Please try again \n Please enter a vale to start from any number will do.");
+ }
+ var results = Number(7) + stringVar;
+ console.log("Adding 7 to the string value you up in you should get "+results);
 
  // Number(variable or value to cast) - treats anything inside of the () as a number
 
@@ -20,9 +23,9 @@ NAMEHERE
  console.log(castingResults);
 
  // String() - anything inside the () is treated as a text string
- var areaCode = 407;
- var firstPart = 203;
- var secondPart = 1234;
+ var areaCode = prompt("Enter the first 3 numbers to a phone number.");
+ var firstPart = prompt("Enter the next 3 numbers to a phone number.");
+ var secondPart = prompt("Please enter the last 4 numbers of a phone number.");
 
  var phoneNumber = String(areaCode) + String(firstPart) + String(secondPart);
 
