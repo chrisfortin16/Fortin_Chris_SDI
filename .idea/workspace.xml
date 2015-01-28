@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="39063f65-b52d-413c-8108-2fe8dfffdae9" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/DayTen/Review/DaySix/Fortin_Chris_Day_Six.js" afterPath="$PROJECT_DIR$/DayTen/Review/DaySix/Fortin_Chris_Day_Six.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/DayTen/Review/DayFive/js/dayFive_ternary.js" afterPath="$PROJECT_DIR$/DayTen/Review/DayFive/js/dayFive_ternary.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/DayTen/Review/DaySeven/js/day_seven_validating_prompts.js" afterPath="$PROJECT_DIR$/DayTen/Review/DaySeven/js/day_seven_validating_prompts.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/DayTen/Review/DaySeven/js/day_seven_zombies.js" afterPath="$PROJECT_DIR$/DayTen/Review/DaySeven/js/day_seven_zombies.js" />
     </list>
     <ignored path="Fortin_Chris_SDI.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -27,12 +27,26 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="Fortin_Chris_Day_Six.js" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/DayTen/Review/DaySix/Fortin_Chris_Day_Six.js">
+      <file leaf-file-name="day_seven_zombies.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/DayTen/Review/DaySeven/js/day_seven_zombies.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.44055945" vertical-offset="0" max-vertical-offset="2040">
-              <caret line="21" column="5" selection-start-line="21" selection-start-column="5" selection-end-line="21" selection-end-column="5" />
-              <folding />
+            <state vertical-scroll-proportion="-0.02097902" vertical-offset="375" max-vertical-offset="1365">
+              <caret line="24" column="110" selection-start-line="24" selection-start-column="110" selection-end-line="24" selection-end-column="110" />
+              <folding>
+                <element signature="n#!!doc" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="daySeven_While_Loops.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/DayTen/Review/DaySeven/js/daySeven_While_Loops.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1080">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding>
+                <element signature="n#!!doc" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -81,6 +95,8 @@
         <option value="$PROJECT_DIR$/DayTen/Review/DayFour/js/dayFour_Prompting.js" />
         <option value="$PROJECT_DIR$/DayTen/Review/DayFive/js/dayFive_ternary.js" />
         <option value="$PROJECT_DIR$/DayTen/Review/DaySix/Fortin_Chris_Day_Six.js" />
+        <option value="$PROJECT_DIR$/DayTen/Review/DaySeven/js/day_seven_validating_prompts.js" />
+        <option value="$PROJECT_DIR$/DayTen/Review/DaySeven/js/day_seven_zombies.js" />
       </list>
     </option>
   </component>
@@ -233,7 +249,33 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="DaySix" />
+              <option name="myItemId" value="DaySeven" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Fortin_Chris_SDI" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Fortin_Chris_SDI" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="DayTen" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Review" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="DaySeven" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="js" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -334,14 +376,14 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="22" width="1440" height="812" extended-state="6" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24305555" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24305555" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
@@ -674,11 +716,61 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/DayTen/Review/DaySeven/js/daySeven_While_Loops.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1005">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/DayTen/Review/DaySix/Fortin_Chris_Day_Six.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.44055945" vertical-offset="0" max-vertical-offset="2040">
+        <state vertical-scroll-proportion="-1.2377622" vertical-offset="1200" max-vertical-offset="2040">
           <caret line="21" column="5" selection-start-line="21" selection-start-column="5" selection-end-line="21" selection-end-column="5" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DayTen/Review/DaySeven/js/day_seven_beer.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="20" max-vertical-offset="735">
+          <caret line="5" column="3" selection-start-line="5" selection-start-column="3" selection-end-line="5" selection-end-column="3" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DayTen/Review/DaySeven/js/day_Seven_forLoops.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="715">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DayTen/Review/DaySeven/js/day_seven_validating_prompts.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.44755244" vertical-offset="455" max-vertical-offset="1170">
+          <caret line="9" column="44" selection-start-line="9" selection-start-column="44" selection-end-line="9" selection-end-column="44" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DayTen/Review/DaySeven/js/day_seven_zombies.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.02097902" vertical-offset="375" max-vertical-offset="1365">
+          <caret line="24" column="110" selection-start-line="24" selection-start-column="110" selection-end-line="24" selection-end-column="110" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

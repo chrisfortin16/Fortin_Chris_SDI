@@ -7,7 +7,7 @@
 
 //alert("Testing to see if this works");
 
-var userInput = prompt("Please type in your kname");
+var userInput = prompt("Please type in your name");
 
 // Validating a prompt with a conditional
 if (userInput === "") {

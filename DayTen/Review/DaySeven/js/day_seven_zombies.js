@@ -12,9 +12,18 @@
 // It can bite 4 people a day and turn them into zombies
 // The CDC wants to know how many zombies there will be in 8 days
 
-var numZombies = 1; //How many zombies do we have?
-var numBites = 4; //How many people the zombie bites per day
-var days = 8; // Number of days.
+var numZombies = prompt("Please enter how many inital zombies there are."); //How many zombies do we have?
+while(numZombies === "" || isNaN(numZombies)){
+    numZombies = prompt("Only using numbers and not leaving it blank \n Please enter how many original zombies there are");
+}
+var numBites = prompt("How many people can one zombie bite a day?"); //How many people the zombie bites per day
+while(numBites === "" || isNaN(numBites)){
+    numBites = prompt("Please only use numbers and do not leave blank \n How many people can one zombie bite a day?")
+}
+var days = prompt("How many days do the zombies roam around?"); // Number of days.
+while(days === "" || isNaN(days)){
+    days = prompt("Please only use numbers and do not leave blank \n How many days do the zombies roam around?");
+}
 var daysTakes = 0;
 /*
 for(var i =1; i<=days; i++){ //start at day one, add a day untill day 8
@@ -34,7 +43,7 @@ for(var i =1; i<=days; i++){ //start at day one, add a day untill day 8
 */
 
 
-// How many days will it take to rach a million zombies? how long will it take for me to get to a million dollars?
+// How many days will it take to reach a million zombies? how long will it take for me to get to a million dollars?
 
 
 while(numZombies <= 1000000){
